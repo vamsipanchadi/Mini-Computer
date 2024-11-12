@@ -1,4 +1,4 @@
-// MINI COMPUTER USING C
+// MINI CALUCLATOR USING C
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
